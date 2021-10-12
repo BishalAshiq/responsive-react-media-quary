@@ -1,0 +1,44 @@
+[
+    {
+      "id": 1,
+      "name": "Dilruba Car Servecing Center",
+      "img": "https://i.ibb.co/x5wQxmM/william-bayreuther-c9k-IYa-NCfpk-unsplash.jpg",
+      "types": "Car-Bus-Bike",
+      "description": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old."
+    },
+    {
+      "id": 2,
+      "name": "Johsim Auto Servecing",
+      "img": "https://i.ibb.co/k57y2Kk/ryan-de-hamer-3-PVIy-G1i-QTc-unsplash.jpg",
+      "types": "Car-Bus",
+      "description": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old."
+    },
+    {
+      "id": 3,
+      "name": "Shila Bus Servecing Center",
+      "img": "https://i.ibb.co/QrqRsBW/nina-mercado-R1uu1hsikww-unsplash.jpg",
+      "types": "Bus",
+      "description": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old."
+    },
+    {
+      "id": 4,
+      "name": "Ripa Car Servecing ",
+      "img": "https://i.ibb.co/3FZq38H/erik-mclean-3u-Hl-GFnz-PDU-unsplash.jpg",
+      "types": "Car-Bike",
+      "description": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old."
+    },
+    {
+      "id": 5,
+      "name": "Sathi Motors",
+      "img": "https://i.ibb.co/BTh1jbJ/burcin-ergunt-3-AUji-Ne1-Kc-Q-unsplash.jpg",
+      "types": "Car-Bus-Bike",
+      "description": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old."
+    },
+    {
+      "id": 6,
+      "name": "Manik Auto",
+      "img": "https://i.ibb.co/bJK6rQq/andriyko-podilnyk-Fy72q-ZAKux-M-unsplash.jpg",
+      "types": "Auto Easybike",
+      "description": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old."
+    }
+  ]
